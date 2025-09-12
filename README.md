@@ -1,7 +1,7 @@
 # QUẢN LÝ CỬA HÀNG BÁN ĐỒNG HỒ
 ## Thông tin thành viên nhóm
 1. 3123410436 - Phan Hoàng Vu - phanvu260823@gmail.com
-2. 
+2. 3123410196 - Nguyễn Huỳnh Yến Linh - linlingg85105@gmail.com
 3. 3123410332 - Trần Thị Xuân Thanh - thanhtranthixuan2201@gmail.com
 4. 3123410207 - Võ Thị Thu Luyện - thuluyen0105@gmail.com
 5. 3123410402 - Nguyễn Thị Ngọc Tú - ngoctu28012005@gmail.com
