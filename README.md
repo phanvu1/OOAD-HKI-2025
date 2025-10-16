@@ -16,4 +16,6 @@
 ![alt text](image.png)
 
 ## Những nhiệm vụ code:
-1. 
+1. Quản lý khách hang, nhà cung cấp, thương hiệu, khu vực đồng hồ, sản phẩm - Thành viên 1, thành viên 2
+2. Quản lý tài khoản, nhân viên,  hệ thống, nhóm quyền - Thành viên 3, thành viên 4
+3. Quản lý phiếu nhập, hóa đơn, bảo hành, thống kê - Thành viên 4, thành viên 5
